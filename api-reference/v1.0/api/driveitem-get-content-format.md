@@ -50,6 +50,8 @@ The following values are valid for the **format** parameter:
 | Format value | Description                        | Supported source extensions
 |:-------------|:-----------------------------------|----------------------------
 | pdf          | Converts the item into PDF format. | csv, doc, docx, odp, ods, odt, pot, potm, potx, pps, ppsx, ppsxm, ppt, pptm, pptx, rtf, xls, xlsx
+| html         | Converts the item into HTML format.| loop, fluid, wbtx
+
 
 ## Optional request headers
 
